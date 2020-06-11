@@ -1,2 +1,3 @@
 teste de escrita no arquivo a.txt
 Entendendo o HEAD
+esta linha foi modificada no ramo NovoRamo
